@@ -1,0 +1,9 @@
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IRepositories\bin\Debug\IRepositories.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IRepositories\bin\Debug\IRepositories.pdb
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IRepositories\bin\Debug\Entities.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IRepositories\bin\Debug\Entities.pdb
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IRepositories\obj\Debug\IRepositories.csprojAssemblyReference.cache
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IRepositories\obj\Debug\IRepositories.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IRepositories\obj\Debug\IRepositories.csproj.CopyComplete
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IRepositories\obj\Debug\IRepositories.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IRepositories\obj\Debug\IRepositories.pdb

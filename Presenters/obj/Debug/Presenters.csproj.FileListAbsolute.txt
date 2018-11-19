@@ -1,0 +1,11 @@
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Presenters\bin\Debug\Presenters.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Presenters\bin\Debug\Presenters.pdb
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Presenters\bin\Debug\Entities.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Presenters\bin\Debug\IServices.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Presenters\bin\Debug\Entities.pdb
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Presenters\bin\Debug\IServices.pdb
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Presenters\obj\Debug\Presenters.csprojAssemblyReference.cache
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Presenters\obj\Debug\Presenters.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Presenters\obj\Debug\Presenters.csproj.CopyComplete
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Presenters\obj\Debug\Presenters.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Presenters\obj\Debug\Presenters.pdb

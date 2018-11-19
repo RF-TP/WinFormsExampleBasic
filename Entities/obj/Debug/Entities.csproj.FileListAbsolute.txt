@@ -1,0 +1,5 @@
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Entities\bin\Debug\Entities.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Entities\bin\Debug\Entities.pdb
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Entities\obj\Debug\Entities.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Entities\obj\Debug\Entities.pdb

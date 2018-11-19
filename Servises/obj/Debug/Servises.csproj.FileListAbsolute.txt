@@ -1,0 +1,13 @@
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Servises\bin\Debug\Servises.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Servises\bin\Debug\Servises.pdb
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Servises\bin\Debug\Entities.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Servises\bin\Debug\IRepositories.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Servises\bin\Debug\IServices.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Servises\bin\Debug\Entities.pdb
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Servises\bin\Debug\IRepositories.pdb
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Servises\bin\Debug\IServices.pdb
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Servises\obj\Debug\Servises.csprojAssemblyReference.cache
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Servises\obj\Debug\Servises.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Servises\obj\Debug\Servises.csproj.CopyComplete
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Servises\obj\Debug\Servises.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\Servises\obj\Debug\Servises.pdb

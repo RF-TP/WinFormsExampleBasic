@@ -1,0 +1,9 @@
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IServices\bin\Debug\IServices.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IServices\bin\Debug\IServices.pdb
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IServices\bin\Debug\Entities.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IServices\bin\Debug\Entities.pdb
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IServices\obj\Debug\IServices.csprojAssemblyReference.cache
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IServices\obj\Debug\IServices.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IServices\obj\Debug\IServices.csproj.CopyComplete
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IServices\obj\Debug\IServices.dll
+C:\Users\User-PC\Downloads\WindowsFormsApplication1-20181103T095511Z-001\WindowsFormsApplication1\IServices\obj\Debug\IServices.pdb
